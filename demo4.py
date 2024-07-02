@@ -1,0 +1,8 @@
+print(float("123.45"))
+print(int(9.99))
+print(str(256) + "bytes")
+print(bool(0))
+print(bool(1))
+print(bool(""))
+print(bool("False"))
+print(bool(None))
