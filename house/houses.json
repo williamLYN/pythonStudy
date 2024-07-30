@@ -1,0 +1,902 @@
+[
+    {
+        "ID": 5888,
+        "location": "学区",
+        "price": 93879.03,
+        "area": 139.5,
+        "floor_num": 13,
+        "distance_to_subway": 0,
+        "total_price": 13096124.69
+    },
+    {
+        "ID": 4152,
+        "location": "地铁站旁",
+        "price": 37530.75,
+        "area": 197.8,
+        "floor_num": 11,
+        "distance_to_subway": 1200,
+        "total_price": 7423582.35
+    },
+    {
+        "ID": 6411,
+        "location": "风景区",
+        "price": 56862.17,
+        "area": 239.7,
+        "floor_num": 8,
+        "distance_to_subway": 1300,
+        "total_price": 13629862.15
+    },
+    {
+        "ID": 9542,
+        "location": "学区",
+        "price": 20388.83,
+        "area": 182.8,
+        "floor_num": 2,
+        "distance_to_subway": 400,
+        "total_price": 3727078.12
+    },
+    {
+        "ID": 4988,
+        "location": "学区",
+        "price": 47985.86,
+        "area": 227.8,
+        "floor_num": 11,
+        "distance_to_subway": 800,
+        "total_price": 10931178.91
+    },
+    {
+        "ID": 999,
+        "location": "学区",
+        "price": 80162.98,
+        "area": 198.5,
+        "floor_num": 5,
+        "distance_to_subway": 200,
+        "total_price": 15912351.53
+    },
+    {
+        "ID": 1140,
+        "location": "学区",
+        "price": 41031.68,
+        "area": 136.9,
+        "floor_num": 2,
+        "distance_to_subway": 700,
+        "total_price": 5617236.99
+    },
+    {
+        "ID": 1499,
+        "location": "市中心",
+        "price": 59976.45,
+        "area": 135.1,
+        "floor_num": 24,
+        "distance_to_subway": 600,
+        "total_price": 8102818.39
+    },
+    {
+        "ID": 7959,
+        "location": "地铁站旁",
+        "price": 35026.87,
+        "area": 162.4,
+        "floor_num": 24,
+        "distance_to_subway": 0,
+        "total_price": 5688363.69
+    },
+    {
+        "ID": 8503,
+        "location": "风景区",
+        "price": 21398.06,
+        "area": 83.5,
+        "floor_num": 15,
+        "distance_to_subway": 300,
+        "total_price": 1786738.01
+    },
+    {
+        "ID": 941,
+        "location": "郊区",
+        "price": 84929.03,
+        "area": 114.0,
+        "floor_num": 22,
+        "distance_to_subway": 300,
+        "total_price": 9681909.42
+    },
+    {
+        "ID": 3463,
+        "location": "风景区",
+        "price": 72541.3,
+        "area": 173.1,
+        "floor_num": 28,
+        "distance_to_subway": 800,
+        "total_price": 12556899.03
+    },
+    {
+        "ID": 733,
+        "location": "地铁站旁",
+        "price": 92282.77,
+        "area": 120.4,
+        "floor_num": 22,
+        "distance_to_subway": 900,
+        "total_price": 11110845.51
+    },
+    {
+        "ID": 2687,
+        "location": "市中心",
+        "price": 53721.65,
+        "area": 265.7,
+        "floor_num": 27,
+        "distance_to_subway": 800,
+        "total_price": 14273842.4
+    },
+    {
+        "ID": 7507,
+        "location": "郊区",
+        "price": 58229.45,
+        "area": 196.5,
+        "floor_num": 3,
+        "distance_to_subway": 400,
+        "total_price": 11442086.92
+    },
+    {
+        "ID": 174,
+        "location": "风景区",
+        "price": 71771.76,
+        "area": 95.1,
+        "floor_num": 15,
+        "distance_to_subway": 100,
+        "total_price": 6825494.38
+    },
+    {
+        "ID": 1687,
+        "location": "市中心",
+        "price": 42320.0,
+        "area": 296.7,
+        "floor_num": 13,
+        "distance_to_subway": 1000,
+        "total_price": 12556344.0
+    },
+    {
+        "ID": 5716,
+        "location": "风景区",
+        "price": 74299.89,
+        "area": 81.5,
+        "floor_num": 18,
+        "distance_to_subway": 900,
+        "total_price": 6055441.04
+    },
+    {
+        "ID": 3159,
+        "location": "郊区",
+        "price": 20003.33,
+        "area": 62.7,
+        "floor_num": 15,
+        "distance_to_subway": 600,
+        "total_price": 1254208.79
+    },
+    {
+        "ID": 2617,
+        "location": "风景区",
+        "price": 76434.83,
+        "area": 275.2,
+        "floor_num": 11,
+        "distance_to_subway": 400,
+        "total_price": 21034865.22
+    },
+    {
+        "ID": 5590,
+        "location": "风景区",
+        "price": 56116.72,
+        "area": 195.5,
+        "floor_num": 2,
+        "distance_to_subway": 700,
+        "total_price": 10970818.76
+    },
+    {
+        "ID": 4623,
+        "location": "市中心",
+        "price": 49836.04,
+        "area": 258.0,
+        "floor_num": 3,
+        "distance_to_subway": 300,
+        "total_price": 12857698.32
+    },
+    {
+        "ID": 7295,
+        "location": "风景区",
+        "price": 97340.3,
+        "area": 218.1,
+        "floor_num": 25,
+        "distance_to_subway": 1100,
+        "total_price": 21229919.43
+    },
+    {
+        "ID": 1989,
+        "location": "市中心",
+        "price": 89770.0,
+        "area": 283.2,
+        "floor_num": 25,
+        "distance_to_subway": 0,
+        "total_price": 25422864.0
+    },
+    {
+        "ID": 7259,
+        "location": "风景区",
+        "price": 46301.58,
+        "area": 182.7,
+        "floor_num": 11,
+        "distance_to_subway": 900,
+        "total_price": 8459298.67
+    },
+    {
+        "ID": 3841,
+        "location": "学区",
+        "price": 98849.89,
+        "area": 192.8,
+        "floor_num": 20,
+        "distance_to_subway": 900,
+        "total_price": 19058258.79
+    },
+    {
+        "ID": 9005,
+        "location": "风景区",
+        "price": 10981.91,
+        "area": 183.7,
+        "floor_num": 28,
+        "distance_to_subway": 500,
+        "total_price": 2017376.87
+    },
+    {
+        "ID": 9100,
+        "location": "地铁站旁",
+        "price": 94423.89,
+        "area": 276.8,
+        "floor_num": 26,
+        "distance_to_subway": 300,
+        "total_price": 26136532.75
+    },
+    {
+        "ID": 195,
+        "location": "郊区",
+        "price": 80699.27,
+        "area": 71.2,
+        "floor_num": 25,
+        "distance_to_subway": 1100,
+        "total_price": 5745788.02
+    },
+    {
+        "ID": 1953,
+        "location": "郊区",
+        "price": 10793.02,
+        "area": 122.8,
+        "floor_num": 29,
+        "distance_to_subway": 200,
+        "total_price": 1325382.86
+    },
+    {
+        "ID": 1313,
+        "location": "学区",
+        "price": 59909.24,
+        "area": 135.1,
+        "floor_num": 18,
+        "distance_to_subway": 1000,
+        "total_price": 8093738.32
+    },
+    {
+        "ID": 6275,
+        "location": "地铁站旁",
+        "price": 23617.0,
+        "area": 74.5,
+        "floor_num": 29,
+        "distance_to_subway": 1300,
+        "total_price": 1759466.5
+    },
+    {
+        "ID": 2342,
+        "location": "市中心",
+        "price": 89648.79,
+        "area": 93.0,
+        "floor_num": 3,
+        "distance_to_subway": 300,
+        "total_price": 8337337.47
+    },
+    {
+        "ID": 5504,
+        "location": "市中心",
+        "price": 49398.61,
+        "area": 259.7,
+        "floor_num": 13,
+        "distance_to_subway": 100,
+        "total_price": 12828819.02
+    },
+    {
+        "ID": 7374,
+        "location": "风景区",
+        "price": 52051.75,
+        "area": 189.6,
+        "floor_num": 14,
+        "distance_to_subway": 1300,
+        "total_price": 9869011.8
+    },
+    {
+        "ID": 1742,
+        "location": "风景区",
+        "price": 65477.29,
+        "area": 56.7,
+        "floor_num": 10,
+        "distance_to_subway": 1300,
+        "total_price": 3712562.34
+    },
+    {
+        "ID": 9569,
+        "location": "市中心",
+        "price": 68270.69,
+        "area": 167.5,
+        "floor_num": 6,
+        "distance_to_subway": 1100,
+        "total_price": 11435340.58
+    },
+    {
+        "ID": 7522,
+        "location": "市中心",
+        "price": 51611.93,
+        "area": 195.5,
+        "floor_num": 10,
+        "distance_to_subway": 700,
+        "total_price": 10090132.31
+    },
+    {
+        "ID": 6279,
+        "location": "地铁站旁",
+        "price": 66976.66,
+        "area": 91.4,
+        "floor_num": 9,
+        "distance_to_subway": 1100,
+        "total_price": 6121666.72
+    },
+    {
+        "ID": 225,
+        "location": "郊区",
+        "price": 57780.7,
+        "area": 138.4,
+        "floor_num": 29,
+        "distance_to_subway": 900,
+        "total_price": 7996848.88
+    },
+    {
+        "ID": 7053,
+        "location": "风景区",
+        "price": 92443.07,
+        "area": 63.2,
+        "floor_num": 20,
+        "distance_to_subway": 1200,
+        "total_price": 5842402.02
+    },
+    {
+        "ID": 3690,
+        "location": "学区",
+        "price": 36637.69,
+        "area": 57.1,
+        "floor_num": 29,
+        "distance_to_subway": 700,
+        "total_price": 2092012.1
+    },
+    {
+        "ID": 1822,
+        "location": "郊区",
+        "price": 41974.19,
+        "area": 257.4,
+        "floor_num": 1,
+        "distance_to_subway": 400,
+        "total_price": 10804156.51
+    },
+    {
+        "ID": 2224,
+        "location": "郊区",
+        "price": 85344.2,
+        "area": 258.2,
+        "floor_num": 18,
+        "distance_to_subway": 1200,
+        "total_price": 22035872.44
+    },
+    {
+        "ID": 6820,
+        "location": "风景区",
+        "price": 19208.77,
+        "area": 269.7,
+        "floor_num": 1,
+        "distance_to_subway": 0,
+        "total_price": 5180605.27
+    },
+    {
+        "ID": 9890,
+        "location": "市中心",
+        "price": 69544.41,
+        "area": 68.1,
+        "floor_num": 5,
+        "distance_to_subway": 1300,
+        "total_price": 4735974.32
+    },
+    {
+        "ID": 5360,
+        "location": "风景区",
+        "price": 18422.36,
+        "area": 97.4,
+        "floor_num": 27,
+        "distance_to_subway": 800,
+        "total_price": 1794337.86
+    },
+    {
+        "ID": 7618,
+        "location": "郊区",
+        "price": 40895.29,
+        "area": 79.1,
+        "floor_num": 7,
+        "distance_to_subway": 100,
+        "total_price": 3234817.44
+    },
+    {
+        "ID": 6468,
+        "location": "市中心",
+        "price": 15864.69,
+        "area": 61.7,
+        "floor_num": 8,
+        "distance_to_subway": 300,
+        "total_price": 978851.37
+    },
+    {
+        "ID": 5527,
+        "location": "学区",
+        "price": 13764.96,
+        "area": 294.1,
+        "floor_num": 25,
+        "distance_to_subway": 900,
+        "total_price": 4048274.74
+    },
+    {
+        "ID": 487,
+        "location": "风景区",
+        "price": 69344.86,
+        "area": 127.3,
+        "floor_num": 25,
+        "distance_to_subway": 200,
+        "total_price": 8827600.68
+    },
+    {
+        "ID": 2156,
+        "location": "市中心",
+        "price": 51493.61,
+        "area": 168.2,
+        "floor_num": 4,
+        "distance_to_subway": 900,
+        "total_price": 8661225.2
+    },
+    {
+        "ID": 6096,
+        "location": "风景区",
+        "price": 52435.66,
+        "area": 156.9,
+        "floor_num": 19,
+        "distance_to_subway": 700,
+        "total_price": 8227155.05
+    },
+    {
+        "ID": 3332,
+        "location": "地铁站旁",
+        "price": 91921.78,
+        "area": 297.9,
+        "floor_num": 12,
+        "distance_to_subway": 1400,
+        "total_price": 27383498.26
+    },
+    {
+        "ID": 7597,
+        "location": "风景区",
+        "price": 71332.11,
+        "area": 231.5,
+        "floor_num": 2,
+        "distance_to_subway": 600,
+        "total_price": 16513383.46
+    },
+    {
+        "ID": 3370,
+        "location": "风景区",
+        "price": 75072.99,
+        "area": 131.2,
+        "floor_num": 13,
+        "distance_to_subway": 800,
+        "total_price": 9849576.29
+    },
+    {
+        "ID": 721,
+        "location": "市中心",
+        "price": 21048.28,
+        "area": 266.9,
+        "floor_num": 7,
+        "distance_to_subway": 500,
+        "total_price": 5617785.93
+    },
+    {
+        "ID": 9726,
+        "location": "学区",
+        "price": 67405.83,
+        "area": 257.2,
+        "floor_num": 17,
+        "distance_to_subway": 400,
+        "total_price": 17336779.48
+    },
+    {
+        "ID": 7404,
+        "location": "市中心",
+        "price": 87914.63,
+        "area": 72.3,
+        "floor_num": 27,
+        "distance_to_subway": 1000,
+        "total_price": 6356227.75
+    },
+    {
+        "ID": 7985,
+        "location": "郊区",
+        "price": 72196.06,
+        "area": 115.6,
+        "floor_num": 7,
+        "distance_to_subway": 1400,
+        "total_price": 8345864.54
+    },
+    {
+        "ID": 1694,
+        "location": "学区",
+        "price": 95223.49,
+        "area": 55.0,
+        "floor_num": 17,
+        "distance_to_subway": 100,
+        "total_price": 5237291.95
+    },
+    {
+        "ID": 7172,
+        "location": "学区",
+        "price": 52363.94,
+        "area": 190.3,
+        "floor_num": 11,
+        "distance_to_subway": 100,
+        "total_price": 9964857.78
+    },
+    {
+        "ID": 9961,
+        "location": "风景区",
+        "price": 16378.21,
+        "area": 116.4,
+        "floor_num": 2,
+        "distance_to_subway": 0,
+        "total_price": 1906423.64
+    },
+    {
+        "ID": 8880,
+        "location": "市中心",
+        "price": 32302.07,
+        "area": 72.5,
+        "floor_num": 18,
+        "distance_to_subway": 900,
+        "total_price": 2341900.08
+    },
+    {
+        "ID": 1987,
+        "location": "学区",
+        "price": 45138.71,
+        "area": 166.8,
+        "floor_num": 21,
+        "distance_to_subway": 700,
+        "total_price": 7529136.83
+    },
+    {
+        "ID": 437,
+        "location": "地铁站旁",
+        "price": 43228.42,
+        "area": 84.8,
+        "floor_num": 30,
+        "distance_to_subway": 800,
+        "total_price": 3665770.02
+    },
+    {
+        "ID": 1318,
+        "location": "风景区",
+        "price": 52236.59,
+        "area": 162.8,
+        "floor_num": 3,
+        "distance_to_subway": 500,
+        "total_price": 8504116.85
+    },
+    {
+        "ID": 8515,
+        "location": "市中心",
+        "price": 41890.62,
+        "area": 254.7,
+        "floor_num": 10,
+        "distance_to_subway": 1000,
+        "total_price": 10669540.91
+    },
+    {
+        "ID": 8385,
+        "location": "风景区",
+        "price": 79488.67,
+        "area": 156.3,
+        "floor_num": 23,
+        "distance_to_subway": 400,
+        "total_price": 12424079.12
+    },
+    {
+        "ID": 3829,
+        "location": "学区",
+        "price": 25709.07,
+        "area": 182.1,
+        "floor_num": 3,
+        "distance_to_subway": 500,
+        "total_price": 4681621.65
+    },
+    {
+        "ID": 3470,
+        "location": "市中心",
+        "price": 21978.17,
+        "area": 145.0,
+        "floor_num": 25,
+        "distance_to_subway": 400,
+        "total_price": 3186834.65
+    },
+    {
+        "ID": 8115,
+        "location": "市中心",
+        "price": 15367.89,
+        "area": 125.7,
+        "floor_num": 4,
+        "distance_to_subway": 600,
+        "total_price": 1931743.77
+    },
+    {
+        "ID": 9120,
+        "location": "市中心",
+        "price": 19855.86,
+        "area": 122.4,
+        "floor_num": 16,
+        "distance_to_subway": 600,
+        "total_price": 2430357.26
+    },
+    {
+        "ID": 4914,
+        "location": "市中心",
+        "price": 61547.95,
+        "area": 150.6,
+        "floor_num": 16,
+        "distance_to_subway": 600,
+        "total_price": 9269121.27
+    },
+    {
+        "ID": 4167,
+        "location": "郊区",
+        "price": 27508.75,
+        "area": 223.1,
+        "floor_num": 3,
+        "distance_to_subway": 200,
+        "total_price": 6137202.12
+    },
+    {
+        "ID": 5002,
+        "location": "郊区",
+        "price": 70213.11,
+        "area": 104.7,
+        "floor_num": 16,
+        "distance_to_subway": 700,
+        "total_price": 7351312.62
+    },
+    {
+        "ID": 7270,
+        "location": "市中心",
+        "price": 61899.04,
+        "area": 237.1,
+        "floor_num": 29,
+        "distance_to_subway": 900,
+        "total_price": 14676262.38
+    },
+    {
+        "ID": 9875,
+        "location": "风景区",
+        "price": 95485.27,
+        "area": 195.7,
+        "floor_num": 26,
+        "distance_to_subway": 1100,
+        "total_price": 18686467.34
+    },
+    {
+        "ID": 3686,
+        "location": "市中心",
+        "price": 54540.92,
+        "area": 111.2,
+        "floor_num": 25,
+        "distance_to_subway": 600,
+        "total_price": 6064950.3
+    },
+    {
+        "ID": 6730,
+        "location": "市中心",
+        "price": 15731.65,
+        "area": 240.7,
+        "floor_num": 3,
+        "distance_to_subway": 200,
+        "total_price": 3786608.15
+    },
+    {
+        "ID": 7082,
+        "location": "郊区",
+        "price": 27850.76,
+        "area": 51.8,
+        "floor_num": 15,
+        "distance_to_subway": 300,
+        "total_price": 1442669.37
+    },
+    {
+        "ID": 2816,
+        "location": "地铁站旁",
+        "price": 49344.78,
+        "area": 160.7,
+        "floor_num": 28,
+        "distance_to_subway": 900,
+        "total_price": 7929706.15
+    },
+    {
+        "ID": 5830,
+        "location": "风景区",
+        "price": 83458.62,
+        "area": 55.6,
+        "floor_num": 17,
+        "distance_to_subway": 1300,
+        "total_price": 4640299.27
+    },
+    {
+        "ID": 4006,
+        "location": "学区",
+        "price": 99978.7,
+        "area": 221.6,
+        "floor_num": 13,
+        "distance_to_subway": 300,
+        "total_price": 22155279.92
+    },
+    {
+        "ID": 972,
+        "location": "郊区",
+        "price": 71173.28,
+        "area": 77.8,
+        "floor_num": 20,
+        "distance_to_subway": 1200,
+        "total_price": 5537281.18
+    },
+    {
+        "ID": 788,
+        "location": "市中心",
+        "price": 48813.25,
+        "area": 62.7,
+        "floor_num": 30,
+        "distance_to_subway": 700,
+        "total_price": 3060590.77
+    },
+    {
+        "ID": 449,
+        "location": "地铁站旁",
+        "price": 48810.8,
+        "area": 265.1,
+        "floor_num": 2,
+        "distance_to_subway": 800,
+        "total_price": 12939743.08
+    },
+    {
+        "ID": 4619,
+        "location": "地铁站旁",
+        "price": 20904.09,
+        "area": 133.8,
+        "floor_num": 8,
+        "distance_to_subway": 1000,
+        "total_price": 2796967.24
+    },
+    {
+        "ID": 9156,
+        "location": "郊区",
+        "price": 53932.63,
+        "area": 164.4,
+        "floor_num": 4,
+        "distance_to_subway": 600,
+        "total_price": 8866524.37
+    },
+    {
+        "ID": 8523,
+        "location": "市中心",
+        "price": 61650.9,
+        "area": 230.3,
+        "floor_num": 18,
+        "distance_to_subway": 800,
+        "total_price": 14198202.27
+    },
+    {
+        "ID": 779,
+        "location": "市中心",
+        "price": 16190.49,
+        "area": 197.0,
+        "floor_num": 15,
+        "distance_to_subway": 1100,
+        "total_price": 3189526.53
+    },
+    {
+        "ID": 3356,
+        "location": "地铁站旁",
+        "price": 27848.68,
+        "area": 230.7,
+        "floor_num": 13,
+        "distance_to_subway": 400,
+        "total_price": 6424690.48
+    },
+    {
+        "ID": 6129,
+        "location": "地铁站旁",
+        "price": 94593.5,
+        "area": 203.0,
+        "floor_num": 6,
+        "distance_to_subway": 500,
+        "total_price": 19202480.5
+    },
+    {
+        "ID": 8279,
+        "location": "地铁站旁",
+        "price": 39852.05,
+        "area": 266.8,
+        "floor_num": 11,
+        "distance_to_subway": 500,
+        "total_price": 10632526.94
+    },
+    {
+        "ID": 4970,
+        "location": "郊区",
+        "price": 67934.2,
+        "area": 258.7,
+        "floor_num": 2,
+        "distance_to_subway": 400,
+        "total_price": 17574577.54
+    },
+    {
+        "ID": 184,
+        "location": "市中心",
+        "price": 84865.11,
+        "area": 92.1,
+        "floor_num": 16,
+        "distance_to_subway": 700,
+        "total_price": 7816076.63
+    },
+    {
+        "ID": 266,
+        "location": "郊区",
+        "price": 26265.92,
+        "area": 210.6,
+        "floor_num": 18,
+        "distance_to_subway": 900,
+        "total_price": 5531602.75
+    },
+    {
+        "ID": 8520,
+        "location": "地铁站旁",
+        "price": 59067.74,
+        "area": 198.9,
+        "floor_num": 14,
+        "distance_to_subway": 700,
+        "total_price": 11748573.49
+    },
+    {
+        "ID": 6622,
+        "location": "市中心",
+        "price": 71264.5,
+        "area": 280.1,
+        "floor_num": 2,
+        "distance_to_subway": 600,
+        "total_price": 19961186.45
+    },
+    {
+        "ID": 6135,
+        "location": "风景区",
+        "price": 67256.3,
+        "area": 96.1,
+        "floor_num": 25,
+        "distance_to_subway": 600,
+        "total_price": 6463330.43
+    }
+]
